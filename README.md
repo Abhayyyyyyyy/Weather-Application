@@ -33,8 +33,8 @@ OR
 Deploy the project to a web server of your choice.
 
 ### 5. Usage
-Enter the name of a city in the input field.
-Click the "Get Weather" button to see the current weather information.
+- Enter the name of a city in the input field. <br/>
+- Click the "Get Weather" button to see the current weather information.<br/>
 
-Dependencies
+Dependencies<br/>
 **OpenWeatherMap API**
