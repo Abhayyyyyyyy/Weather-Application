@@ -20,9 +20,9 @@ cd weather-application
 
 ### 3. Obtain an OpenWeatherMap API Key
 
-Sign up on the OpenWeatherMap website to get your API key.
-Open the index.html file in a text editor.
-Replace 'YOUR_OPENWEATHERMAP_API_KEY' in the script section with your actual API key.
+- Sign up on the OpenWeatherMap website to get your API key.<br/>
+- Open the index.html file in a text editor. <br/>
+- Replace 'YOUR_OPENWEATHERMAP_API_KEY' in the script section with your actual API key. <br/>
 
 ### 4. Run the Application
 
